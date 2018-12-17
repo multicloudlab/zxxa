@@ -8,3 +8,5 @@
 
 Task One add upstream
 Task Two use amend option
+Task Three use squash
+Task Four use rebase
