@@ -6,3 +6,5 @@
   - add new commit
 - How to squash your commits
 
+Task One add upstream
+Task Two use amend option
